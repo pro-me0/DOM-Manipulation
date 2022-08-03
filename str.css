@@ -1,0 +1,33 @@
+*{
+    transition: 0.4s;
+}
+body{
+    text-align: center;
+    background-color: black;
+}
+span{
+    color: white;
+    font-size: 6vw;
+    font-family: 'ocr a';
+    vertical-align: middle;
+    margin: 1px;
+    /* border-bottom: 2px solid black; */
+    /* transition: 0.4s; */
+}
+#pillar{
+margin-left: -1em;
+    height: 97vh;
+    width: 0;
+    background-color:red;
+}
+#span{
+    background-color:rgba(37, 37, 37, 0.459);
+    box-shadow: 0 0 7em rgb(37, 37, 37);
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 95vw;
+}
+#span, #pillar{
+    display: inline-block;
+    vertical-align: middle;
+}
