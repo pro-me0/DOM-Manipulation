@@ -1,9 +1,9 @@
 const
-str = `HAPPY BIRTHDAY
+str = `DOM Manipluation
 
-"${c = prompt("Enter Your Name?")}"
+Simulate hacker typing in browser
 
-${pr = '...BEST WISHES'}`;
+${pr = '...Refresh page to go again.'}`;
 let span;
 function ann(i){
     b = document.getElementById('span');
