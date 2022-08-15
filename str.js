@@ -2,8 +2,7 @@ const
 str = `DOM Manipluation
 
 Simulate hacker typing in browser
-
-${pr = '...Refresh page to go again.'}`;
+`;
 let span;
 function ann(i){
     b = document.getElementById('span');
@@ -39,7 +38,7 @@ function st(i){
         }
 }
 let ex = 0;
-let pro = 'GOOD BYE...';
+let pro = '...refresh page to go again!';
 function na(ct, i){
         return setTimeout(() => {
             ct.style.fontSize = '6vw';
