@@ -1,5 +1,5 @@
 const
-str = `DOM Manipluation
+str = `DOM Manipulation
 
 Simulate hacker typing in browser
 
