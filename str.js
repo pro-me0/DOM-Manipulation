@@ -2,6 +2,8 @@ const
 str = `DOM Manipluation
 
 Simulate hacker typing in browser
+
+${pr = '...refresh page to go again!'}
 `;
 let span;
 function ann(i){
